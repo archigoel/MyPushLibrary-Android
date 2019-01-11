@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "422486933577",
+    "firebase_url": "https://push-notify-e5067.firebaseio.com",
+    "project_id": "push-notify-e5067",
+    "storage_bucket": "push-notify-e5067.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422486933577:android:b9c4fc25c418b193",
+        "android_client_info": {
+          "package_name": "com.example.archigupta.pushdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422486933577-4ii132mg8d3i68t4or2uj9a8b6c6de4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADS669vP04uq0v6cgmeaDyaCHFPthJg7Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422486933577:android:46bfc429208cc36a",
+        "android_client_info": {
+          "package_name": "com.example.archigupta.pushdemopixel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422486933577-4ii132mg8d3i68t4or2uj9a8b6c6de4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADS669vP04uq0v6cgmeaDyaCHFPthJg7Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422486933577:android:caeaa17c56b3ce98",
+        "android_client_info": {
+          "package_name": "com.example.archigupta.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422486933577-4ii132mg8d3i68t4or2uj9a8b6c6de4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADS669vP04uq0v6cgmeaDyaCHFPthJg7Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
